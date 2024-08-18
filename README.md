@@ -4,7 +4,7 @@ This project implements a U-Net architecture for semantic segmentation of pet im
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1f56034e-878e-499b-8059-75c18486950e" alt="New Image">
 </p>
-<p align="center"><em>Image citation: Image Segmentation with TensorFlow. (n.d.). Retrieved from <a href="https://ml-showcase.paperspace.com/projects/image-segmentation-with-tensorflow">ml-showcase.paperspace.com</a>.</em></p>
+<p align="center"><em>Image Segmentation with TensorFlow. (n.d.). Retrieved from <a href="https://ml-showcase.paperspace.com/projects/image-segmentation-with-tensorflow">ml-showcase.paperspace.com</a>.</em></p>
 
 
 
