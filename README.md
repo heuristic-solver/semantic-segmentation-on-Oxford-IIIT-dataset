@@ -1,11 +1,11 @@
 # <h1 align="center">Pet Image Segmentation with U-Net</h1>
 
 This project implements a U-Net architecture for semantic segmentation of pet images using TensorFlow and the Oxford-IIIT Pet Dataset.
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3f2498ce-465a-4b73-88c1-4cf237d5aafd" alt="U-Net Architecture">
+  <img src="https://github.com/user-attachments/assets/d0434145-f2c5-41d6-b779-cd21a5b25fda" alt="New Image">
 </p>
 <p align="center"><em>Image citation: Yun, Juyoung. (2023). StochGradAdam: Accelerating Neural Networks Training with Stochastic Gradient Sampling. 10.21203/rs.3.rs-3488436/v1.</em></p>
+
 
 
 
