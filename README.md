@@ -1,4 +1,4 @@
-# Pet Image Segmentation with U-Net
+# <h1 align="center">Pet Image Segmentation with U-Net</h1>
 
 This project implements a U-Net architecture for semantic segmentation of pet images using TensorFlow and the Oxford-IIIT Pet Dataset.
 
