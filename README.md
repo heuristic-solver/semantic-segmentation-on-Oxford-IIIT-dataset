@@ -16,4 +16,10 @@ The notebook demonstrates the following key steps:
 - Evaluating the model's performance
 - Visualizing results
 
+# Usage
 
+1. Run the notebook cells sequentially to load the dataset, build the model, train, and evaluate.
+2. The unet() function defines the model architecture.
+3. Training progress and metrics are plotted for analysis.
+4. Use the make_predictions() function to generate segmentation masks for test images.
+5. Visualize results using the display_with_metrics() function.
