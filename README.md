@@ -10,7 +10,7 @@ This project implements a U-Net architecture for semantic segmentation of pet im
 
 
 
-# Overview
+# <p align="center">Overview</p>
 
 The notebook demonstrates the following key steps:
 
