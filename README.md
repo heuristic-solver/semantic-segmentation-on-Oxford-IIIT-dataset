@@ -36,6 +36,6 @@ The notebook demonstrates the following key steps:
 - Decoder: 4 blocks of upsampling and convolutional layers
 - Skip connections between encoder and decode
 
-# <p align="center">Model Architecture</p>
+# <p align="center">Acknowledgement</p>
 This project uses the Oxford-IIIT Pet Dataset. Please cite the dataset if you use this code for your research.
 Feel free to contribute, report issues, or suggest improvements!
