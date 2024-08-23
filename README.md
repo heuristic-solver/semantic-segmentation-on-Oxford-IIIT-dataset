@@ -20,7 +20,7 @@ The notebook demonstrates the following key steps:
 - Evaluating the model's performance
 - Visualizing results
 
-# Usage
+# <p align="center">Usage</p>
 
 - Run the notebook cells sequentially to load the dataset, build the model, train, and evaluate.
 - The unet() function defines the model architecture.
@@ -29,13 +29,13 @@ The notebook demonstrates the following key steps:
 - Visualize results using the display_with_metrics() function.
 
 
-# Model Architecture
+# <p align="center">Model Architecture</p>
 
 - Encoder: 4 blocks of convolutional and max pooling layers
 - Bottleneck: 2 convolutional layers
 - Decoder: 4 blocks of upsampling and convolutional layers
 - Skip connections between encoder and decode
 
-# Acknowledgements
+# <p align="center">Model Architecture</p>
 This project uses the Oxford-IIIT Pet Dataset. Please cite the dataset if you use this code for your research.
 Feel free to contribute, report issues, or suggest improvements!
