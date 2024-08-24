@@ -8,7 +8,7 @@ This project implements a U-Net architecture for semantic segmentation of pet im
 
 
 # Jayanth
-<p align = "center"> Jayanth </p>
+# <p align = "center"> Jayanth </p>
 
 # <p align="center">Overview</p>
 
